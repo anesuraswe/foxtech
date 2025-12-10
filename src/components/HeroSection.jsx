@@ -18,12 +18,12 @@ const HeroSection = () => {
       </p>
       <div className="flex justify-center my-10">
         <a
-          href="#"
+          href="https://wa.me/c/19464892473455"
           className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md"
         >
           WhatsApp Catalogue
         </a>
-        <a href="https://wa.me/c/19464892473455" className="py-3 px-4 mx-3 rounded-md border">
+        <a href="#" className="py-3 px-4 mx-3 rounded-md border">
           Our Curriculum
         </a>
       </div>
