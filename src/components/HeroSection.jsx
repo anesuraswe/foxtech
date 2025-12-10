@@ -23,7 +23,7 @@ const HeroSection = () => {
         >
           WhatsApp Catalogue
         </a>
-        <a href="#" className="py-3 px-4 mx-3 rounded-md border">
+        <a href="https://wa.me/c/19464892473455" className="py-3 px-4 mx-3 rounded-md border">
           Our Curriculum
         </a>
       </div>
