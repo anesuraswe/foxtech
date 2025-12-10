@@ -21,7 +21,7 @@ const HeroSection = () => {
           href="#"
           className="bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md"
         >
-          WhatsApp
+          WhatsApp Catalogue
         </a>
         <a href="#" className="py-3 px-4 mx-3 rounded-md border">
           Our Curriculum
